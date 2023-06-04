@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure**
 
-- 💬 Ask me about **Mongodb,express,react,node.js,html5,bootstrap**
+- 💬 Ask me about **MERN , html5 , bootstrap , javascript**
 
 - 📫 How to reach me **chaithrakr549@gmail.com**
 
