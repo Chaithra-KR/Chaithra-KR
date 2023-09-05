@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaithra-kr&label=Profile%20views&color=0e75b6&style=flat" alt="chaithra-kr" /> </p>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I'm currently working on a project: **SkillSet Network**
 
 - 💬 Ask me about **MERN , html5 , bootstrap , javascript**
 
