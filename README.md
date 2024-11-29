@@ -9,4 +9,4 @@ I'm Chaithra KR, I'm a Full Stack Web Developer 👨‍💻 specializing in the 
 - 🔭 I’m currently working on SR Naturals
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about: MERN
-- ⚡ Languages: Javascript, MongoDB, Express.js, React.js, Node.js, Tailwind css, HTML, Git, Sass, Bootstrap, Postgresql
+- 🎓 Languages: Javascript, MongoDB, Express.js, React.js, Node.js, Tailwind css, HTML, Git, Sass, Bootstrap, Postgresql
