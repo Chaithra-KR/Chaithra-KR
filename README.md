@@ -6,9 +6,9 @@
 </p>
 
 <p align="start">
-  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-chaithrakr.com-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fchaithra--kr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email-chaithra.kalarikkal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://chaithrakr.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/chaithra-kr/" target="_blank"><img src="https://img.shields.io/badge/-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
