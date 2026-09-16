@@ -1,23 +1,25 @@
 # Chaithra KR <span align="end">   <img src="https://komarev.com/ghpvc/?username=chaithra-kr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </span>
+
 <p align="start">
   <strong>Full Stack Developer (MERN / Next.js / TypeScript)</strong><br>
   Building scalable eCommerce platforms, real-time dashboards, and high-performance web apps.
 </p>
+
 <p align="start">
-  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-chaithrakr.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fchaithra--kr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email-chaithra.kalarikkal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-* 💻 Full Stack Engineer with **2+ years of experience** architecting production-grade eCommerce platforms, real-time financial dashboards, and scalable web apps.
-* 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**.
-* 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**).
-* ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)** and **Vercel**.
-* 📍 Based in Kozhikode, Kerala, India.
+* 💻 Full Stack Engineer with **2+ years of experience** architecting production-grade eCommerce platforms, real-time financial dashboards, and scalable web apps[cite: 1].
+* 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**[cite: 1].
+* 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**)[cite: 1].
+* ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)**, **Render**, and **Vercel**[cite: 1].
+* 📍 Based in Kozhikode, Kerala, India[cite: 1].
 
 ---
 
@@ -45,6 +47,7 @@
 
 **Cloud, DevOps & Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -55,9 +58,9 @@
 
 ### 💼 Key Highlights
 
-* **Bullion & FinTech Platforms**: Engineered live pricing engines, multilingual support (English/Arabic), and multi-currency checkouts for international markets.
-* **Full Stack Architecture**: Built modular frontend components using RTK/Zustand and connected them to secure Node/Express/Mongo APIs.
-* **Payment Integrations**: Implemented automated checkout flows with Apple Pay, PayTabs, Razorpay, and Stripe.
+* **Bullion & FinTech Platforms**: Engineered live pricing engines, multilingual support (English/Arabic), and multi-currency checkouts for international markets[cite: 1].
+* **Full Stack Architecture**: Built modular frontend components using RTK/Zustand and connected them to secure Node/Express/Mongo APIs[cite: 1].
+* **Payment Integrations**: Implemented automated checkout flows with Apple Pay, PayTabs, Razorpay, and Stripe[cite: 1].
 
 ---
 
