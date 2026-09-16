@@ -1,23 +1,23 @@
-# Chaithra KR <span align="end">   <img src="https://komarev.com/ghpvc/?username=chaithra-kr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </span>
+# Chaithra KR <span align="end">   <img src="https://komarev.com/ghpvc/?username=chaithra-kr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </span>
 <p align="start">
-  <strong>Full Stack Developer (MERN / Next.js / TypeScript)</strong><br>
-  Building scalable eCommerce platforms, real-time dashboards, and high-performance web apps.
+  <strong>Full Stack Developer (MERN / Next.js / TypeScript)</strong><br>
+  Building scalable eCommerce platforms, real-time dashboards, and high-performance web apps.
 </p>
 <p align="start">
-  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-* 💻 Full Stack Engineer with **2+ years of experience** architecting production-grade eCommerce platforms, real-time financial dashboards, and scalable web apps[cite: 1].
-* 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**[cite: 1].
-* 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**)[cite: 1].
-* ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)** and **Vercel**[cite: 1].
-* 📍 Based in Kozhikode, Kerala, India[cite: 1].
+* 💻 Full Stack Engineer with **2+ years of experience** architecting production-grade eCommerce platforms, real-time financial dashboards, and scalable web apps.
+* 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**.
+* 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**).
+* ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)** and **Vercel**.
+* 📍 Based in Kozhikode, Kerala, India.
 
 ---
 
@@ -53,20 +53,11 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaithra-KR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chaithra's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaithra-KR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 💼 Key Highlights
 
-* **Bullion & FinTech Platforms**: Engineered live pricing engines, multilingual support (English/Arabic), and multi-currency checkouts for international markets[cite: 1].
-* **Full Stack Architecture**: Built modular frontend components using RTK/Zustand and connected them to secure Node/Express/Mongo APIs[cite: 1].
-* **Payment Integrations**: Implemented automated checkout flows with Apple Pay, PayTabs, Razorpay, and Stripe[cite: 1].
+* **Bullion & FinTech Platforms**: Engineered live pricing engines, multilingual support (English/Arabic), and multi-currency checkouts for international markets.
+* **Full Stack Architecture**: Built modular frontend components using RTK/Zustand and connected them to secure Node/Express/Mongo APIs.
+* **Payment Integrations**: Implemented automated checkout flows with Apple Pay, PayTabs, Razorpay, and Stripe.
 
 ---
 
