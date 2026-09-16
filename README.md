@@ -6,7 +6,7 @@
 </p>
 
 <p align="start">
-  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-chaithrakr.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-chaithrakr.com-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fchaithra--kr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email-chaithra.kalarikkal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-* 💻 Full Stack Engineer with **2+ years of experience** architecting production-grade eCommerce platforms, real-time financial dashboards, and scalable web apps[cite: 1].
-* 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**[cite: 1].
-* 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**)[cite: 1].
-* ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)**, **Render**, and **Vercel**[cite: 1].
-* 📍 Based in Kozhikode, Kerala, India[cite: 1].
+* 💻 Full Stack Engineer with **2+ years of experience** architecting production-grade eCommerce platforms, real-time financial dashboards, and scalable web apps.
+* 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**.
+* 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**).
+* ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)**, **Render**, and **Vercel**.
+* 📍 Based in Kozhikode, Kerala, India.
 
 ---
 
@@ -58,9 +58,9 @@
 
 ### 💼 Key Highlights
 
-* **Bullion & FinTech Platforms**: Engineered live pricing engines, multilingual support (English/Arabic), and multi-currency checkouts for international markets[cite: 1].
-* **Full Stack Architecture**: Built modular frontend components using RTK/Zustand and connected them to secure Node/Express/Mongo APIs[cite: 1].
-* **Payment Integrations**: Implemented automated checkout flows with Apple Pay, PayTabs, Razorpay, and Stripe[cite: 1].
+* **Bullion & FinTech Platforms**: Engineered live pricing engines, multilingual support (English/Arabic), and multi-currency checkouts for international markets.
+* **Full Stack Architecture**: Built modular frontend components using RTK/Zustand and connected them to secure Node/Express/Mongo APIs.
+* **Payment Integrations**: Implemented automated checkout flows with Apple Pay, PayTabs, Razorpay, and Stripe.
 
 ---
 
