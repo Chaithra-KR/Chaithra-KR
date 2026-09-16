@@ -1,4 +1,4 @@
-# Chaithra KR <span align="end">   <img src="https://komarev.com/ghpvc/?username=chaithra-kr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </span>
+# Chaithra KR <span align="end"> <img src="https://komarev.com/ghpvc/?username=chaithra-kr&label=Profile%20views&color=0e75b6&style=flat" alt="chaithra-kr" /> </span>
 
 <p align="start">
   <strong>Full Stack Developer (MERN / Next.js / TypeScript)</strong><br>
