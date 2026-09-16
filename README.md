@@ -6,9 +6,9 @@
 </p>
 
 <p align="start">
-  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Portfolio%3A%20chaithrakr.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio: chaithrakr.vercel" /></a>
-  <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn%3A%20in%2Fchaithra--kr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: chaithra-kr" /></a>
-  <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email%3A%20chaithra.kalarikkal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: chaithra.kalarikkal@gmail.com" /></a>
+  <a href="https://chaithrakr.vercel.app"><img src="https://img.shields.io/badge/Web%3A%20chaithrakr.vercel.app-000?style=flat-square&logo=vercel&logoColor=white" alt="Web: chaithrakr.vercel.app" /></a>
+  <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn%3A%20chaithra--kr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: chaithra-kr" /></a>
+  <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email%3A%20chaithra.kalarikkal%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email: chaithra.kalarikkal@gmail.com" /></a>
 </p>
 
 ---
