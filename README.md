@@ -14,6 +14,7 @@
   <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email%3A%20chaithra.kalarikkal%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="26" alt="Email: chaithra.kalarikkal@gmail.com" /></a>
 </p>
 </div>
+
 ---
 
 ### 🚀 About Me
