@@ -1,5 +1,8 @@
-# Chaithra KR <span align="end"> <img src="https://komarev.com/ghpvc/?username=chaithra-kr&label=Profile%20views&color=0e75b6&style=flat" alt="chaithra-kr" /> </span>
+<div align="center">
 
+# **Chaithra KR**
+
+</div>
 <p align="start">
   <strong>Full Stack Developer (MERN / Next.js / TypeScript)</strong><br>
   Building scalable eCommerce platforms, real-time dashboards, and high-performance web apps.
@@ -19,7 +22,7 @@
 * 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**.
 * 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**).
 * ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)**, **Render**, and **Vercel**.
-* 📍 Based in Kozhikode, Kerala, India.
+* 📍 Based in Kerala, India.
 
 ---
 
