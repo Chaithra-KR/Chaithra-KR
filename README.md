@@ -2,7 +2,6 @@
 
 # **Chaithra KR**
 
-
 <p align="center">
   <strong>Full Stack Developer (MERN / Next.js / TypeScript)</strong><br>
   Building scalable eCommerce platforms, real-time dashboards, and high-performance web apps.
@@ -13,23 +12,33 @@
   <a href="https://www.linkedin.com/in/chaithra-kr/"><img src="https://img.shields.io/badge/LinkedIn%3A%20chaithra--kr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26" alt="LinkedIn: chaithra-kr" /></a>
   <a href="mailto:chaithra.kalarikkal@gmail.com"><img src="https://img.shields.io/badge/Email%3A%20chaithra.kalarikkal%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="26" alt="Email: chaithra.kalarikkal@gmail.com" /></a>
 </p>
+
+<p align="center">
+  <!-- 1. Live Public Repos (Direct GitHub API) -->
+  <a href="https://github.com/Chaithra-KR?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=2ea44f&label=Public%20Repos&logo=github&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FChaithra-KR" height="24" alt="Public Repos" />
+  </a>
+  
+  <!-- 3. Private Repos (Your 10 Client / NDA Repos) -->
+  <img src="https://img.shields.io/badge/Private%20Repos-10%20(Client%20%26%20NDA)-f85149?style=flat-square&logo=githubactions&logoColor=white" height="24" alt="Private Repos" />
+</p>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-* 💻 Full Stack Engineer with **2+ years of experience** architecting production-grade eCommerce platforms, real-time financial dashboards, and scalable web apps.
-* 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**.
-* 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**).
-* ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)**, **Render**, and **Vercel**.
-* 📍 Based in Kerala, India.
+- 💻 Full Stack Engineer with **2+ years of experience** architecting production-grade eCommerce platforms, real-time financial dashboards, and scalable web apps.
+- 🛠️ Core expertise in **Next.js (SSR/SSG/ISR)**, **TypeScript**, **React**, **Node.js**, and **MongoDB/PostgreSQL**.
+- 💳 Experienced in integrating global payment systems (**Stripe**, **Razorpay**, **PayTabs**, **Network International**).
+- ☁️ Skilled in cloud infrastructure and deployments across **AWS (EC2, S3, Amplify, Route 53)**, **Render**, and **Vercel**.
+- 📍 Based in Kerala, India.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -40,7 +49,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Databases**
+**Backend & Databases**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -49,7 +58,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
-**Cloud, DevOps & Tools**
+**Cloud, DevOps & Tools**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -62,9 +71,9 @@
 
 ### 💼 Key Highlights
 
-* **Bullion & FinTech Platforms**: Engineered live pricing engines, multilingual support (English/Arabic), and multi-currency checkouts for international markets.
-* **Full Stack Architecture**: Built modular frontend components using RTK/Zustand and connected them to secure Node/Express/Mongo APIs.
-* **Payment Integrations**: Implemented automated checkout flows with Apple Pay, PayTabs, Razorpay, and Stripe.
+- **Bullion & FinTech Platforms**: Engineered live pricing engines, multilingual support (English/Arabic), and multi-currency checkouts for international markets.
+- **Full Stack Architecture**: Built modular frontend components using RTK/Zustand and connected them to secure Node/Express/Mongo APIs.
+- **Payment Integrations**: Implemented automated checkout flows with Apple Pay, PayTabs, Razorpay, and Stripe.
 
 ---
 
